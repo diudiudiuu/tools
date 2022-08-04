@@ -1,0 +1,16 @@
+{
+  "name": "unzip_hook_from_s3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "mime-types": "^2.1.11",
+    "node-zip": "^1.1.1",
+    "zip": "^1.2.0"
+  }
+}
