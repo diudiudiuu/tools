@@ -13,5 +13,5 @@
 - [修改警告状态](change_alarm_state)
 
 ## 其他
-- [batch简单框架](batch_framework)
+- [batch简单执行框架](batch_framework)
 
