@@ -1,8 +1,9 @@
 import CryptoJS from 'crypto-js';
 
-const xml = ""; // Base64 编码的密文
-const key = ""; // Hex 编码的密钥
-const iv = "";  // Hex 编码的 IV
+const xml = "sVRJZVRjabBo7eWmvI/v1g=="; // Base64 编码的密文
+const key = "2a8d252917897dfe09ab8b5e569291b3c0aeaccb8921b63d60dae16d567769c4"; // Hex 编码的密钥
+const iv = "1872615fcda7ea6c15cc331cc23acf54";  // Hex 编码的 IV
+
 
 console.log('密文:', xml);
 console.log('密钥:', key);
